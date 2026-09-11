@@ -2,7 +2,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { useEffect, useState } from 'react'
 import { FaGithub, FaLinkedin, FaEnvelope, FaCode } from 'react-icons/fa'
 import { HiOutlineSparkles } from 'react-icons/hi'
-import valbuenaImg from "../assets/Valbuena.JPEG"
+import valbuenaImg from "../assets/Valbuena.jpeg"
 
 const roles = [
   'Desarrollador Full Stack',
