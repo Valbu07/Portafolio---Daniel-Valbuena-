@@ -137,7 +137,7 @@ const Contact = () => {
                   id="name"
                   name="name"
                   required
-                  placeholder="Ej. María García"
+                  placeholder="Ej. Camila Casallas"
                   className="w-full px-5 py-3.5 rounded-xl bg-slate-950/70 border border-white/10 text-gray-100 placeholder-gray-500 outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400 transition-all duration-300 text-sm"
                 />
               </div>
@@ -155,7 +155,7 @@ const Contact = () => {
                   id="email"
                   name="email"
                   required
-                  placeholder="correo@ejemplo.com"
+                  placeholder="correo525@ejemplo.com"
                   className="w-full px-5 py-3.5 rounded-xl bg-slate-950/70 border border-white/10 text-gray-100 placeholder-gray-500 outline-none focus:border-cyan-400 focus:ring-1 focus:ring-cyan-400 transition-all duration-300 text-sm"
                 />
               </div>
